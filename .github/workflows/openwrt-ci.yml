@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-CI
+name: Amy-home openwrt X86 1.0
 
 on:
   push:
